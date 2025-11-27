@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "✨ devdockx",
+			"path": "."
+		},
+		{
+			"name": "🚀 devdockx-api",
+			"path": "apps/api"
+		},
+		{
+			"name": "🚀 docs",
+			"path": "apps/docs"
+		},
+		{
+			"name": "🚀 web",
+			"path": "apps/web"
+		}
+	],
+	"settings": {}
+}
