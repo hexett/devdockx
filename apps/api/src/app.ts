@@ -1,5 +1,5 @@
 import express from 'express';
-import logger from './lib/logger';
+import logger from './lib/logger.js';
 import routes from './routes/index.js';
 import logRequests from './middleware/logRequests.js';
 
